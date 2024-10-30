@@ -1,0 +1,30 @@
+.manceppo_hidden {
+    display: none !important;
+}
+
+.manceppo_api_form table.manceppo_news_letters {
+	border: none;
+	margin: 0;
+}
+
+.manceppo_api_form .manceppo_news_letters td {
+	border: none;
+	padding: 0.5em;
+	vertical-align: baseline;
+}
+
+.manceppo_api_form .manceppo_news_letters tr td:first-child {
+	width: 0.1em;
+}
+
+table.manceppo_table,
+table.manceppo_table tr,
+table.manceppo_table td
+{
+	border: none;
+}
+
+table.manceppo_table td
+{
+	padding-left: 0;
+}

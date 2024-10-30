@@ -1,0 +1,38 @@
+.manceppo_small_text {
+	margin-top: 0.5em;
+	margin-bottom: 2em;
+}
+
+.manceppo_small_text p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.manceppo_divider {
+	border-bottom: solid 1px #cccccc;
+	clear:both;
+	margin-top: 5px;
+	width: 50%;
+}
+
+#manceppo_plugin-fields-meta-box div .mcp_row {
+	width: 50%;
+	float: left;
+}
+
+#manceppo_plugin-fields-meta-box div .mcp_row input {
+	vertical-align: middle;
+}
+
+#manceppo_plugin-fields-meta-box table.manceppo_news_letters .selection {
+	padding-left: 30px;
+	text-align: center;
+}
+
+.manceppo_field_head {
+	text-align: left;
+}
+
+#manceppo_field_space input {
+	text-align: right;
+}
